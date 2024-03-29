@@ -1,0 +1,15 @@
+Dear [Name], 
+
+I hope this email finds you well. I wanted to reach out to you regarding a recent application I came across for the [Job Title] role at [Company Name]. I am truly excited about the opportunity to potentially join [Company Name] and contribute to its mission.
+
+As a current Master's student in Data Science in CU Boulder, I believe I have strong fundamentals in the subject and well suited for the role provided. Additionally, I have work experience as SDE in GE Renewable and GE Healthcare and have applied these skills in many different projects. I'm eager to bring my expertise and skills to help the team grow while also learning a lot more through this internship. I'm attaching my resume for your reference.
+
+If you believe my skills and background align well with the requirements of the position, I would be grateful if you could consider referring me to the position. I would like to schedule a call with you to discuss my fit at your ease. Hoping to hear from you soon!
+
+Job URL: "[Job URL]"
+
+Best regards,
+Anudeep Nayak
+
+
+
